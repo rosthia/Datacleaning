@@ -7,9 +7,9 @@ The following is a summary of the assignment and file type description.
 - Script run_analysis.R is created and is later executed in same working directory
 
 Files type description
-run_analysis.R - script
-tidydata.txt - output for tidy data set
-codebook.md - code details
+- run_analysis.R: cleaning script
+- tidydata.txt: output for tidy data set
+- codebook.md: code details
 
 The run_analysis.R script comprises of the following as per assignment specs:
 - Merges the training and the test sets to create one data set;
