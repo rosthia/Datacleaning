@@ -11,5 +11,5 @@ Files type description
 - tidydata.txt: output for tidy data set
 - codebook.md: code details
 
-You may refer to codebook for more details on the scripting and steps.
+You may refer to codebook and script for more details on the scripting and steps.
 
