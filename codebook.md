@@ -4,12 +4,13 @@ Course Project CodeBook
 The codebook provides a summary of the variables and data transformation.
 
 Data source: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
 Actual Data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 Steps Performed:
 - Data was loaded into working directory
-- Data was then tidied into a single data frame contatining just the original data cells of interest in a specify format. 
-- 
+- Data was then tidied into a single data frame contatining just the original data cells of interest in a specify format
+
 As per assignment specs, the script includes the following
 - Merges the training and the test sets to create one data set;
 - Extracts only the measurements on the mean and standard deviation for each measurement; 
