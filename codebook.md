@@ -25,7 +25,7 @@ The final cleaned data set has 81 columns:
 
 - 1 subject.id : The subject ID, an integer in the range 1:30
 - 2 activity : The activity performed by the subject
-- 3tBodyAcc-mean()-X
+- 3 tBodyAcc-mean()-X
 - 4 tBodyAcc-mean()-Y
 - 5 tBodyAcc-mean()-Z
 - 6 tBodyAcc-std()-X
